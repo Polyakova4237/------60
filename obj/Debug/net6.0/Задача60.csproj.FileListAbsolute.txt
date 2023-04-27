@@ -1,0 +1,5 @@
+C:\Users\pvg23\Desktop\C#\Задача60\obj\Debug\net6.0\Задача60.csproj.AssemblyReference.cache
+C:\Users\pvg23\Desktop\C#\Задача60\obj\Debug\net6.0\Задача60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pvg23\Desktop\C#\Задача60\obj\Debug\net6.0\Задача60.AssemblyInfoInputs.cache
+C:\Users\pvg23\Desktop\C#\Задача60\obj\Debug\net6.0\Задача60.AssemblyInfo.cs
+C:\Users\pvg23\Desktop\C#\Задача60\obj\Debug\net6.0\Задача60.csproj.CoreCompileInputs.cache
